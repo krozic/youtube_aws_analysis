@@ -1,0 +1,8 @@
+{
+  "Variables": {
+	  "s3_clean_layer": "krozic_youtube_clean",
+	  "glue_catalog_db_name": "clean_statistics_reference_data",
+	  "glue_catalog_table_name": "s3://krozic-youtube-clean-useast1-dev/youtube",
+	  "write_data_operation": "append"
+    }
+}
